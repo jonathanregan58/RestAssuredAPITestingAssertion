@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testCases.TC_postmanschemavalidation3freebeeceptorcom">
+        <methods>
+          <include name="make_sure_the_postcode_of_first_address_from_restaurant_whose_index_is_7_is_Potsdamer_Platz"/>
+        </methods>
+      </class> <!-- testCases.TC_postmanschemavalidation3freebeeceptorcom -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

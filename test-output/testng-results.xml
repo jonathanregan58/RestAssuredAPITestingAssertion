@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3173" started-at="2022-08-10T15:29:58 ICT" finished-at="2022-08-10T15:30:02 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3173" started-at="2022-08-10T15:29:58 ICT" finished-at="2022-08-10T15:30:02 ICT">
+      <class name="testCases.TC_postmanschemavalidation3freebeeceptorcom">
+        <test-method status="PASS" signature="make_sure_the_postcode_of_first_address_from_restaurant_whose_index_is_7_is_Potsdamer_Platz()[pri:0, instance:testCases.TC_postmanschemavalidation3freebeeceptorcom@1786dec2]" name="make_sure_the_postcode_of_first_address_from_restaurant_whose_index_is_7_is_Potsdamer_Platz" duration-ms="3133" started-at="2022-08-10T15:29:59 ICT" finished-at="2022-08-10T15:30:02 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- make_sure_the_postcode_of_first_address_from_restaurant_whose_index_is_7_is_Potsdamer_Platz -->
+      </class> <!-- testCases.TC_postmanschemavalidation3freebeeceptorcom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
