@@ -1,4 +1,4 @@
-# RestAssuredAPITestingpostmanschemavalidation3freebeeceptorcom
+# RestAssuredAPITestingAssertion
 
 Tried to do assertion with RestAssured on https://postmanschemavalidation3.free.beeceptor.com/
 
